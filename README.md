@@ -10,4 +10,4 @@ Slides and course content licensed [CC-BY-SA 4.0].
 [Sofia Cole]: http://twitter.com/sofiacole35
 [Dave Gurnell]: http://davegurnell.com
 [Underscore]: http://underscore.io
-[CC-BY-NC-SA 4.0]: http://creativecommons.org/licenses/by-sa/4.0/
+[CC-BY-SA 4.0]: http://creativecommons.org/licenses/by-sa/4.0/
